@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Vivo T1X",
+    "image": "/assets/products/vivo-t1x.webp",
+    "price": "3.990.000",
+    "priceOld": "4.490.000"
+  },
+  {
+    "id": 2,
+    "name": "Xiaomi 12T",
+    "image": "/assets/products/xiaomi-12t.webp",
+    "price": "10.890.000",
+    "priceOld": "12.490.000"
+  },
+  {
+    "id": 3,
+    "name": "Ipad 10.2",
+    "image": "/assets/products/ipad-10-2.webp",
+    "price": "7.390.000",
+    "priceOld": "10.990.000"
+  },
+  {
+    "id": 4,
+    "name": "Samsung Galaxy A53 (5G)",
+    "image": "/assets/products/samsung-galaxy-a53.webp",
+    "price": "8.290.000",
+    "priceOld": "9.990.000"
+  },
+  {
+    "id": 5,
+    "name": "iPhone 14 Pro Max 256GB",
+    "image": "/assets/products/iphone14-promax.webp",
+    "price": "31.190.000",
+    "priceOld": "37.990.000"
+  }
+]
